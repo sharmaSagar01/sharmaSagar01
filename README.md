@@ -33,7 +33,8 @@ I love connecting with new people, you can reach me at sagaarpkr@gmail.com.
 <img src='https://github.com/sharmaSagar01/sharmaSagar01/assets/37947735/1eaffdb8-02fd-40a8-ad29-01521a393690' alt='' height='40'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaSagar01)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaSagar01)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaSagar01&show_icons=true&theme=dracula)
+
 
 
 
