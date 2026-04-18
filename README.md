@@ -1,4 +1,4 @@
-![Software Engineer](https://github.com/sharmaSagar01/sharmaSagar01/blob/main/Software%20Engineer%20(1).png?raw=true)
+
 
 # Sagar Sharma
 
